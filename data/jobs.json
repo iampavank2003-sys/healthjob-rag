@@ -68,5 +68,215 @@
     "city": "Dresden",
     "description": "Dispense prescriptions, medication counseling, hospital pharmacy",
     "category": "pharmacy"
+  },
+  {
+    "id": "job11",
+    "title": "Registered Nurse - Emergency Department",
+    "city": "Hamburg",
+    "description": "Triage walk-in patients, trauma resuscitation, rapid assessment, ACLS certification required",
+    "category": "nursing"
+  },
+  {
+    "id": "job12",
+    "title": "Registered Nurse - Cardiac Care Unit",
+    "city": "Munich",
+    "description": "Monitor heart patients, ECG interpretation, post-bypass care, cardiology ward experience",
+    "category": "nursing"
+  },
+  {
+    "id": "job13",
+    "title": "Registered Nurse - Neonatal ICU",
+    "city": "Berlin",
+    "description": "Care for premature newborns, incubators, feeding support, parent guidance, neonatal experience",
+    "category": "nursing"
+  },
+  {
+    "id": "job14",
+    "title": "Registered Nurse - Operating Theatre",
+    "city": "Frankfurt",
+    "description": "Assist surgeons, sterile technique, instrument preparation, surgical ward experience",
+    "category": "nursing"
+  },
+  {
+    "id": "job15",
+    "title": "Registered Nurse - Oncology",
+    "city": "Cologne",
+    "description": "Administer chemotherapy, manage treatment side effects, emotional support for cancer patients",
+    "category": "nursing"
+  },
+  {
+    "id": "job16",
+    "title": "Home Care Nurse",
+    "city": "Leipzig",
+    "description": "Visit patients at home, wound dressing changes, injections, driving license required",
+    "category": "nursing"
+  },
+  {
+    "id": "job17",
+    "title": "Mental Health Nurse",
+    "city": "Hamburg",
+    "description": "Psychiatric ward, de-escalation of agitated patients, crisis intervention, therapy support",
+    "category": "nursing"
+  },
+  {
+    "id": "job18",
+    "title": "Dialysis Nurse",
+    "city": "Stuttgart",
+    "description": "Operate dialysis machines, monitor kidney patients, vascular access care",
+    "category": "nursing"
+  },
+  {
+    "id": "job19",
+    "title": "Physiotherapist - Sports Injuries",
+    "city": "Munich",
+    "description": "Treat athletes, taping, return-to-sport programs, sports clinic",
+    "category": "therapy"
+  },
+  {
+    "id": "job20",
+    "title": "Physiotherapist - Neurological Rehab",
+    "city": "Berlin",
+    "description": "Stroke and Parkinson's rehabilitation, balance and gait training, inpatient rehab center",
+    "category": "therapy"
+  },
+  {
+    "id": "job21",
+    "title": "Speech Therapist",
+    "city": "Dresden",
+    "description": "Treat speech and swallowing disorders in children and adults, language development",
+    "category": "therapy"
+  },
+  {
+    "id": "job22",
+    "title": "Occupational Therapist - Pediatrics",
+    "city": "Cologne",
+    "description": "Support children with developmental delays, sensory integration, cooperation with schools",
+    "category": "therapy"
+  },
+  {
+    "id": "job23",
+    "title": "Clinical Psychologist",
+    "city": "Frankfurt",
+    "description": "Individual therapy sessions, cognitive behavioral therapy, diagnostic assessments",
+    "category": "mental health"
+  },
+  {
+    "id": "job24",
+    "title": "Cardiologist",
+    "city": "Dusseldorf",
+    "description": "Diagnose heart disease, echocardiography, catheter lab, specialist license required",
+    "category": "physician"
+  },
+  {
+    "id": "job25",
+    "title": "Pediatrician",
+    "city": "Hamburg",
+    "description": "Child health checkups, growth monitoring, childhood illnesses, pediatric license",
+    "category": "physician"
+  },
+  {
+    "id": "job26",
+    "title": "Emergency Physician",
+    "city": "Berlin",
+    "description": "Emergency room, trauma care, rapid decisions, ambulance rotations",
+    "category": "physician"
+  },
+  {
+    "id": "job27",
+    "title": "General Surgeon",
+    "city": "Munich",
+    "description": "Abdominal surgery, laparoscopy, on-call duty, surgical board certification",
+    "category": "physician"
+  },
+  {
+    "id": "job28",
+    "title": "Dermatologist",
+    "city": "Stuttgart",
+    "description": "Skin disease diagnosis, skin cancer screening, outpatient practice",
+    "category": "physician"
+  },
+  {
+    "id": "job29",
+    "title": "Radiologist",
+    "city": "Cologne",
+    "description": "Interpret X-ray, CT and MRI images, write diagnostic reports, radiology board certification",
+    "category": "physician"
+  },
+  {
+    "id": "job30",
+    "title": "Ultrasound Sonographer",
+    "city": "Leipzig",
+    "description": "Perform ultrasound exams, obstetric and abdominal scans, image documentation",
+    "category": "diagnostics"
+  },
+  {
+    "id": "job31",
+    "title": "Microbiology Laboratory Scientist",
+    "city": "Frankfurt",
+    "description": "Culture samples, identify pathogens, antibiotic resistance testing",
+    "category": "diagnostics"
+  },
+  {
+    "id": "job32",
+    "title": "Community Pharmacist",
+    "city": "Munich",
+    "description": "Retail pharmacy, over-the-counter advice, prescription dispensing, customer service",
+    "category": "pharmacy"
+  },
+  {
+    "id": "job33",
+    "title": "Clinical Pharmacist",
+    "city": "Hamburg",
+    "description": "Hospital ward rounds, drug interaction checks, dosing advice for doctors",
+    "category": "pharmacy"
+  },
+  {
+    "id": "job34",
+    "title": "Medical Assistant",
+    "city": "Berlin",
+    "description": "Front desk and clinical support, appointment scheduling, taking vitals, blood draws",
+    "category": "support"
+  },
+  {
+    "id": "job35",
+    "title": "Healthcare Administrator",
+    "city": "Dresden",
+    "description": "Hospital operations, staff scheduling, budgeting, healthcare management degree",
+    "category": "admin"
+  },
+  {
+    "id": "job36",
+    "title": "Medical Coder",
+    "city": "Remote Germany",
+    "description": "Assign billing codes to diagnoses, ICD-10, documentation review",
+    "category": "admin"
+  },
+  {
+    "id": "job37",
+    "title": "Nutritionist",
+    "city": "Cologne",
+    "description": "Dietary counseling, meal plans for patients, hospital outpatient clinic",
+    "category": "nutrition"
+  },
+  {
+    "id": "job38",
+    "title": "Paramedic",
+    "city": "Berlin",
+    "description": "Ambulance emergency response, patient stabilization, transport, driving license",
+    "category": "emergency"
+  },
+  {
+    "id": "job39",
+    "title": "Dental Hygienist",
+    "city": "Stuttgart",
+    "description": "Teeth cleaning, oral health education, dental X-rays, dental practice",
+    "category": "dental"
+  },
+  {
+    "id": "job40",
+    "title": "Nursing Assistant - Hospital",
+    "city": "Leipzig",
+    "description": "Help nurses with patient hygiene, mobility and feeding, entry-level, no degree required",
+    "category": "support"
   }
 ]
