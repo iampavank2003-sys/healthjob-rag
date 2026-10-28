@@ -1,0 +1,72 @@
+[
+  {
+    "id": "job1",
+    "title": "Registered Nurse - ICU",
+    "city": "Berlin",
+    "description": "Care for critically ill patients, monitor ventilators, 2+ years ICU experience, German B2",
+    "category": "nursing"
+  },
+  {
+    "id": "job2",
+    "title": "Pediatric Nurse",
+    "city": "Munich",
+    "description": "Support children's ward, vaccinations, family communication, pediatric certification preferred",
+    "category": "nursing"
+  },
+  {
+    "id": "job3",
+    "title": "Physiotherapist",
+    "city": "Hamburg",
+    "description": "Rehab plans for post-surgery patients, manual therapy, outpatient clinic",
+    "category": "therapy"
+  },
+  {
+    "id": "job4",
+    "title": "General Practitioner",
+    "city": "Cologne",
+    "description": "Primary care practice, diagnosis, chronic disease management, medical license required",
+    "category": "physician"
+  },
+  {
+    "id": "job5",
+    "title": "Radiology Technician",
+    "city": "Frankfurt",
+    "description": "Operate MRI and CT scanners, patient positioning, radiation safety",
+    "category": "diagnostics"
+  },
+  {
+    "id": "job6",
+    "title": "Medical Lab Technologist",
+    "city": "Berlin",
+    "description": "Run blood and tissue tests, quality control, lab information systems",
+    "category": "diagnostics"
+  },
+  {
+    "id": "job7",
+    "title": "Elderly Care Nurse",
+    "city": "Stuttgart",
+    "description": "Care home nursing, medication management, dementia care experience",
+    "category": "nursing"
+  },
+  {
+    "id": "job8",
+    "title": "Occupational Therapist",
+    "city": "Leipzig",
+    "description": "Help patients regain daily living skills, hand therapy, hospital setting",
+    "category": "therapy"
+  },
+  {
+    "id": "job9",
+    "title": "Anesthesiologist",
+    "city": "Dusseldorf",
+    "description": "Perioperative anesthesia, pain management, board certification",
+    "category": "physician"
+  },
+  {
+    "id": "job10",
+    "title": "Pharmacist",
+    "city": "Dresden",
+    "description": "Dispense prescriptions, medication counseling, hospital pharmacy",
+    "category": "pharmacy"
+  }
+]

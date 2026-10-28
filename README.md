@@ -28,7 +28,7 @@ streamlit run app.py
 Get a free API key at https://aistudio.google.com/apikey. Never commit your key.
 
 ## Data
-`data/jobs.json` is a small **sample dataset** of 10 healthcare job postings written for this demo. It is not real job data.
+`data/jobs.json` is a small **sample dataset** of 40 healthcare job postings (including many similar roles) written for this demo. It is not real job data.
 
 ## Project structure
 ```
