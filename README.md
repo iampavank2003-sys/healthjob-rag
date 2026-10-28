@@ -2,7 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) app that matches a candidate profile to healthcare job postings. It retrieves the most relevant postings from a vector database, then an LLM explains how well each one fits, using only the retrieved postings.
 
-**Live demo:(https://healthjob-rag-bypavank.streamlit.app/)
+**Live demo : Live Streamlit link (https://healthjob-rag-bypavank.streamlit.app/)
 
 ## How it works
 1. **Ingest** (`ingest.py`): job postings from `data/jobs.json` are converted into embeddings (all-MiniLM-L6-v2) and stored in a Chroma vector database.
