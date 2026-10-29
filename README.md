@@ -2,7 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) app that matches a candidate profile to healthcare job postings. It retrieves the most relevant postings from a vector database, then an LLM explains how well each one fits, using only the retrieved postings.
 
-**Live demo : Live Streamlit link (https://healthjob-rag-bypavank.streamlit.app/)
+**Live demo:** _add your Streamlit link here_
 
 ## How it works
 1. **Ingest** (`ingest.py`): job postings from `data/jobs.json` are converted into embeddings (all-MiniLM-L6-v2) and stored in a Chroma vector database.
@@ -27,6 +27,11 @@ streamlit run app.py
 ```
 Get a free API key at https://aistudio.google.com/apikey. Never commit your key.
 
+## Results
+- **Retrieval:** 35 test queries over a 40-posting sample dataset, 100% Top-1 and Top-3 accuracy. Queries and postings were written for this demo, so wording overlaps and real-world accuracy would be lower.
+- **Prompt comparison:** on 10 test queries, both prompts named the correct job every time. In my manual quality scoring (1-5), v1 (fit explanation) averaged 5.0 and v2 (ranking plus missing requirements) averaged 4.0. v2 sometimes reported no missing requirements when the posting listed requirements the candidate profile did not show. Small sample, single rater.
+- Raw results are in the `evaluation/` folder.
+
 ## Data
 `data/jobs.json` is a small **sample dataset** of 40 healthcare job postings (including many similar roles) written for this demo. It is not real job data.
 
@@ -41,4 +46,4 @@ data/jobs.json    sample job postings
 ```
 
 ## Author
-Pavan K, [GitHub](https://github.com/iampavank2003), [LinkedIn](https://linkedin.com/in/pavank2003)
+Pavan K, [GitHub](https://github.com/iampavank2003-sys), [LinkedIn](https://www.linkedin.com/in/pavan-k2003)
